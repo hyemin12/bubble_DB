@@ -6,48 +6,42 @@
       "describtion": "안녕하세요. IBK 기업은행 김희진입니다.",
       "msg": [
         {
-          "text": "안녕하세요. IBK 기업은행 김희진입니다.",
-          "time": "오후 4시 26분"
+          "message": "안녕하세요. IBK 기업은행 김희진입니다.",
+          "time": "오후 4시 26분",
+          "sender": "artist",
+          "name": "희글이",
+          "id": 1
         },
-        { "text": "응원해주셔서 감사합니다.", "time": "오후 4시 29분" }
-      ],
-      "reply": [{ "text": "김희진 행복배구만해 TAT", "time": "오후 4시30분" }]
+        {
+          "message": "응원해주셔서 감사합니다.",
+          "time": "오후 4시 29분",
+          "sender": "artist",
+          "name": "희글이",
+          "id": 2
+        },
+        {
+          "message": "김희진 행복배구만해 TAT",
+          "time": "오후 4시30분",
+          "sender": "user",
+          "name": "hyemin",
+          "id": 3
+        }
+      ]
     },
     {
       "id": 2,
       "name": "박백발",
-      "describtion": "소원",
-      "msg": [
-        {
-          "text": "나 지성이야😊 앞으로 자주자주 연락하장",
-          "time": "오후 2시 5분"
-        }
-      ],
-      "reply": []
+      "describtion": "소원"
     },
     {
       "id": 3,
       "name": "박보검",
-      "describtion": "2022년 3월 전역",
-      "msg": [
-        { "text": "안녕하세요. 배우 박보검입니다.", "time": "오후 6시 5분" }
-      ],
-      "reply": []
+      "describtion": "2022년 3월 전역"
     },
     {
       "id": 4,
       "name": "DearU bubble",
-      "describtion": "",
-      "msg": [
-        {
-          "text": "안녕하세요. 열심히 공부중입니다.",
-          "time": "오후 12시 31분"
-        }
-      ],
-      "reply": [
-        { "text": "id별로 답장 저장해야하는데", "time": "오후 4시 31분" },
-        { "text": "이게 맞는걸까", "time": "오후 4시 32분" }
-      ]
+      "describtion": ""
     }
   ],
   "site": [
@@ -61,7 +55,6 @@
       "name": "네이버스포츠 - 배구",
       "href": "https://m.sports.naver.com/volleyball/index"
     },
-
     {
       "img": "https://w.namu.la/s/ef27a265841b03fb9e784b8edcf06cb9155e80477684dc24122a771d212a835a9f5c6959c493eae4a01e547c9d4a04def1cbddad54a8aaaf21fddcda2db61d16077c16f7f572f9bc7b112548d06e8b04e82076994063f7237a68d395cb8b9c4a",
       "name": "NCT DREAM twitter",
@@ -97,5 +90,75 @@
       "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDA3MTBfMjcy/MDAxNTk0MzY2MDkyNDQz.yXNceUkR2Wa_B8gY1_1L-yoqaLLOqpJe5uV8yiyxZWQg.SY3TPVinTOMixE4famkEtVntpBSM4wIZt8FRteiYqpwg.JPEG.progressmkt/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EB%A1%9C%EA%B3%A0.jpg?type=w800"
     }
   ],
-  "msg": []
+  "msg-1": [
+    {
+      "message": "안녕하세요. IBK 기업은행 김희진입니다.",
+      "time": "오후 4시 26분",
+      "sender": "artist",
+      "name": "희글이",
+      "id": 1
+    },
+    {
+      "message": "응원해주셔서 감사합니다.",
+      "time": "오후 4시 29분",
+      "sender": "artist",
+      "name": "희글이",
+      "id": 2
+    },
+    {
+      "message": "김희진 행복배구만해 TAT",
+      "time": "오후 4시30분",
+      "sender": "user",
+      "name": "hyemin",
+      "id": 3
+    }
+  ],
+  "msg-2": [
+    {
+      "message": "나 지성이야😊 앞으로 자주자주 연락하장",
+      "time": "오후 2시 5분",
+      "sender": "artist",
+      "name": "박백발",
+      "id": 1
+    }
+  ],
+  "msg-3": [
+    {
+      "message": "안녕하세요. 배우 박보검입니다.",
+      "time": "오후 6시 5분",
+      "sender": "artist",
+      "name": "박보검",
+      "id": 1
+    }
+  ],
+  "msg-4": [
+    {
+      "message": "안녕하세요. 열심히 공부중입니다.",
+      "time": "오후 12시 31분",
+      "sender": "artist",
+      "name": "DearU bubble",
+      "id": 1
+    },
+    {
+      "message": "id별로 답장 저장해야하는데",
+      "time": "오후 4시 31분",
+      "sender": "user",
+      "name": "hyemin",
+      "id": 2
+    },
+    {
+      "message": "이게 맞는걸까",
+      "time": "오후 4시 32분",
+      "sender": "user",
+      "name": "hyemin",
+      "id": 3
+    },
+    {
+      "message": "제이슨파일보내기",
+      "time": "오후 5시 00분",
+      "sender": "user",
+      "name": "hyemin",
+      "id": 4
+    }
+  ]
 }
