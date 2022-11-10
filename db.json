@@ -1,95 +1,106 @@
 {
-  "bubble": [
-    {
-      "id": 1,
-      "name": "희글이",
-      "describtion": "안녕하세요. IBK 기업은행 김희진입니다.",
-      "msg": [
-        {
-          "message": "안녕하세요. IBK 기업은행 김희진입니다.",
-          "time": "오후 4시 26분",
-          "sender": "artist",
-          "name": "희글이",
-          "id": 1
-        },
-        {
-          "message": "응원해주셔서 감사합니다.",
-          "time": "오후 4시 29분",
-          "sender": "artist",
-          "name": "희글이",
-          "id": 2
-        },
-        {
-          "message": "김희진 행복배구만해 TAT",
-          "time": "오후 4시30분",
-          "sender": "user",
-          "name": "hyemin",
-          "id": 3
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "박백발",
-      "describtion": "소원"
-    },
-    {
-      "id": 3,
-      "name": "박보검",
-      "describtion": "2022년 3월 전역"
-    },
-    {
-      "id": 4,
-      "name": "DearU bubble",
-      "describtion": ""
-    }
-  ],
-  "site": [
-    {
-      "img": "https://yt3.ggpht.com/ns0lS6nfaT8xN5TXV5Z1SUNT7f8ZavLhAF0x5-RBTl3ohOGMflwT8F6VTycm22n9okoGlvwcW9Q=s900-c-k-c0x00ffffff-no-rj",
-      "name": "IBK 기업은행 알토스 배구단",
-      "href": "http://sports.ibk.co.kr/volleyball/main/main.php/"
-    },
-    {
-      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDA3MTBfMjcy/MDAxNTk0MzY2MDkyNDQz.yXNceUkR2Wa_B8gY1_1L-yoqaLLOqpJe5uV8yiyxZWQg.SY3TPVinTOMixE4famkEtVntpBSM4wIZt8FRteiYqpwg.JPEG.progressmkt/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EB%A1%9C%EA%B3%A0.jpg?type=w800",
-      "name": "네이버스포츠 - 배구",
-      "href": "https://m.sports.naver.com/volleyball/index"
-    },
-    {
-      "img": "https://w.namu.la/s/ef27a265841b03fb9e784b8edcf06cb9155e80477684dc24122a771d212a835a9f5c6959c493eae4a01e547c9d4a04def1cbddad54a8aaaf21fddcda2db61d16077c16f7f572f9bc7b112548d06e8b04e82076994063f7237a68d395cb8b9c4a",
-      "name": "NCT DREAM twitter",
-      "href": "https://twitter.com/NCTsmtown_DREAM"
-    },
-    {
-      "img": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_400x400.jpg",
-      "name": "SMTOWN STORE",
-      "href": "https://smtownandstore.com/"
-    },
-    {
-      "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/62/99/7b/bc/62997bbc0609d2738276.jpg",
-      "name": "NCT DREAM YOUTUBE",
-      "href": "https://www.youtube.com/channel/UCXURHJRGr4-EB3l87kcbElw"
-    },
-    {
-      "img": "http://www.kovo.co.kr/images/img/logo.png",
-      "name": "KOVO 한국배구연맹",
-      "href": "https://www.kovo.co.kr/"
-    }
-  ],
-  "community": [
-    {
-      "name": "IBK 기업은행 알토스 배구단",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQgDYixtOJ17Yx0W3IHu3-3rTg4ewfJLjCIA&usqp=CAU"
-    },
-    {
-      "name": "현대건설 힐스테이트 배구단",
-      "img": "https://www1.hdec.kr/FileContents/EditorImg/20211118/04-05p_Topic-01-01%20%EB%B3%B5%EC%82%AC.jpg_770_1.jpg"
-    },
-    {
-      "name": "네이버스포츠 - 배구",
-      "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDA3MTBfMjcy/MDAxNTk0MzY2MDkyNDQz.yXNceUkR2Wa_B8gY1_1L-yoqaLLOqpJe5uV8yiyxZWQg.SY3TPVinTOMixE4famkEtVntpBSM4wIZt8FRteiYqpwg.JPEG.progressmkt/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EB%A1%9C%EA%B3%A0.jpg?type=w800"
-    }
-  ],
+  "bubble": {
+    "friends": [
+      {
+        "id": 1,
+        "name": "희글이",
+        "describtion": "안녕하세요. IBK 기업은행 김희진입니다.",
+        "msg": [
+          {
+            "message": "안녕하세요. IBK 기업은행 김희진입니다.",
+            "time": "오후 4시 26분",
+            "sender": "artist",
+            "name": "희글이",
+            "id": 1
+          },
+          {
+            "message": "응원해주셔서 감사합니다.",
+            "time": "오후 4시 29분",
+            "sender": "artist",
+            "name": "희글이",
+            "id": 2
+          },
+          {
+            "message": "김희진 행복배구만해 TAT",
+            "time": "오후 4시30분",
+            "sender": "user",
+            "name": "hyemin",
+            "id": 3
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "박백발",
+        "describtion": "소원"
+      },
+      {
+        "id": 3,
+        "name": "박보검",
+        "describtion": "2022년 3월 전역"
+      },
+      {
+        "id": 4,
+        "name": "DearU bubble",
+        "describtion": ""
+      },
+      {
+        "message": "제이슨파일보내기",
+        "time": "오후 5시 00분",
+        "sender": "user",
+        "id": 5
+      }
+    ]
+  },
+  "community": {
+    "site": [
+      {
+        "img": "https://yt3.ggpht.com/ns0lS6nfaT8xN5TXV5Z1SUNT7f8ZavLhAF0x5-RBTl3ohOGMflwT8F6VTycm22n9okoGlvwcW9Q=s900-c-k-c0x00ffffff-no-rj",
+        "name": "IBK 기업은행 알토스 배구단",
+        "href": "http://sports.ibk.co.kr/volleyball/main/main.php/"
+      },
+      {
+        "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDA3MTBfMjcy/MDAxNTk0MzY2MDkyNDQz.yXNceUkR2Wa_B8gY1_1L-yoqaLLOqpJe5uV8yiyxZWQg.SY3TPVinTOMixE4famkEtVntpBSM4wIZt8FRteiYqpwg.JPEG.progressmkt/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EB%A1%9C%EA%B3%A0.jpg?type=w800",
+        "name": "네이버스포츠 - 배구",
+        "href": "https://m.sports.naver.com/volleyball/index"
+      },
+      {
+        "img": "https://w.namu.la/s/ef27a265841b03fb9e784b8edcf06cb9155e80477684dc24122a771d212a835a9f5c6959c493eae4a01e547c9d4a04def1cbddad54a8aaaf21fddcda2db61d16077c16f7f572f9bc7b112548d06e8b04e82076994063f7237a68d395cb8b9c4a",
+        "name": "NCT DREAM twitter",
+        "href": "https://twitter.com/NCTsmtown_DREAM"
+      },
+      {
+        "img": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_400x400.jpg",
+        "name": "SMTOWN STORE",
+        "href": "https://smtownandstore.com/"
+      },
+      {
+        "img": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/62/99/7b/bc/62997bbc0609d2738276.jpg",
+        "name": "NCT DREAM YOUTUBE",
+        "href": "https://www.youtube.com/channel/UCXURHJRGr4-EB3l87kcbElw"
+      },
+      {
+        "img": "http://www.kovo.co.kr/images/img/logo.png",
+        "name": "KOVO 한국배구연맹",
+        "href": "https://www.kovo.co.kr/"
+      }
+    ],
+    "community": [
+      {
+        "name": "IBK 기업은행 알토스 배구단",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQgDYixtOJ17Yx0W3IHu3-3rTg4ewfJLjCIA&usqp=CAU"
+      },
+      {
+        "name": "현대건설 힐스테이트 배구단",
+        "img": "https://www1.hdec.kr/FileContents/EditorImg/20211118/04-05p_Topic-01-01%20%EB%B3%B5%EC%82%AC.jpg_770_1.jpg"
+      },
+      {
+        "name": "네이버스포츠 - 배구",
+        "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDA3MTBfMjcy/MDAxNTk0MzY2MDkyNDQz.yXNceUkR2Wa_B8gY1_1L-yoqaLLOqpJe5uV8yiyxZWQg.SY3TPVinTOMixE4famkEtVntpBSM4wIZt8FRteiYqpwg.JPEG.progressmkt/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EB%A1%9C%EA%B3%A0.jpg?type=w800"
+      }
+    ]
+  },
+
   "msg-1": [
     {
       "message": "안녕하세요. IBK 기업은행 김희진입니다.",
