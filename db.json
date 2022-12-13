@@ -3,30 +3,7 @@
     {
       "id": 1,
       "name": "희글이",
-      "describtion": "안녕하세요. IBK 기업은행 김희진입니다.",
-      "msg": [
-        {
-          "message": "안녕하세요. IBK 기업은행 김희진입니다.",
-          "time": "오후 4시 26분",
-          "sender": "artist",
-          "name": "희글이",
-          "id": 1
-        },
-        {
-          "message": "응원해주셔서 감사합니다.",
-          "time": "오후 4시 29분",
-          "sender": "artist",
-          "name": "희글이",
-          "id": 2
-        },
-        {
-          "message": "김희진 행복배구만해 TAT",
-          "time": "오후 4시30분",
-          "sender": "user",
-          "name": "hyemin",
-          "id": 3
-        }
-      ]
+      "describtion": "안녕하세요. IBK 기업은행 김희진입니다."
     },
     {
       "id": 2,
@@ -47,27 +24,27 @@
   "msg-1": [
     {
       "message": "안녕하세요. IBK 기업은행 김희진입니다.",
-      "time": "오후 4시 26분",
+      "time": "202204261626",
       "sender": "artist",
       "name": "희글이",
       "id": 1
     },
     {
       "message": "응원해주셔서 감사합니다.",
-      "time": "오후 4시 29분",
+      "time": "202204261629",
       "sender": "artist",
       "name": "희글이",
       "id": 2
     },
     {
       "message": "김희진 행복배구만해 TAT",
-      "time": "오후 4시30분",
+      "time": "202204261630",
       "sender": "user",
       "name": "hyemin",
       "id": 3
     },
     {
-      "time": "오전 11시59분",
+      "time": "202204271159",
       "message": "메세지 전송하기!!!!",
       "sender": "user",
       "name": "hyemin",
@@ -95,28 +72,28 @@
   "msg-4": [
     {
       "message": "안녕하세요. 열심히 공부중입니다.",
-      "time": "오후 12시 31분",
+      "time": "202212131231",
       "sender": "artist",
       "name": "DearU bubble",
       "id": 1
     },
     {
       "message": "id별로 답장 저장해야하는데",
-      "time": "오후 4시 31분",
+      "time": "202212131631",
       "sender": "user",
       "name": "hyemin",
       "id": 2
     },
     {
       "message": "이게 맞는걸까",
-      "time": "오후 4시 32분",
+      "time": "202212131631",
       "sender": "user",
       "name": "hyemin",
       "id": 3
     },
     {
       "message": "제이슨파일보내기",
-      "time": "오후 5시 00분",
+      "time": "202212141700",
       "sender": "user",
       "name": "hyemin",
       "id": 4
